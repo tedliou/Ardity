@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b1843c4d2e79161468bfbcd0781259d5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 305d72b64a2242c0b6ff1d70a6bc89f4, type: 3}
+  name: ardity
+  version: 1.1.0
+  displayName: Ardity
+  description: A repository forked from the original Ardity project (https://github.com/dwilches/Ardity)
+    by dwilches, but which can be managed using the Package Manager.
+  unity: 2022.3
+  unityRelease: 
+  dependencies:
+    keyValuePairs: []
+  keywords: []
+  author:
+    name: Daniel Wilches
+    email: dwilches@gmail.com
+    url: https://ardity.dwilches.com/
+  autoExportJson: 1
+  overrideExportJsonPath: 1
+  exportJsonPath: Ardity
+  registryUrl: https://registry.my-company.com
