@@ -1,18 +1,15 @@
-
 {
-    "name" : "ardity",
-    "version" : "1.1.0",
-    "displayName" : "Ardity",
-    "description" : "A repository forked from the original Ardity project (https://github.com/dwilches/Ardity) by dwilches, but which can be managed using the Package Manager.",
-    "unity"       : "2022.3",
-    "unityRelease" : "",
-    "dependencies" : {
-    },
-    "keywords"     : [
-    ],
-    "author"       : {
-        "name" : "Daniel Wilches",
-        "email" : "dwilches@gmail.com",
-        "url"   : "https://ardity.dwilches.com/"
+    "name": "ardity",
+    "version": "1.1.0",
+    "displayName": "Ardity",
+    "description": "Assets for integrating Arduino and Unity (or Unity and any hardware that communicates over a COM port)",
+    "unity": "2018.2",
+    "unityRelease": "",
+    "dependencies": {},
+    "keywords": [],
+    "author": {
+        "name": "Daniel Wilches",
+        "email": "dwilches@gmail.com",
+        "url": "https://ardity.dwilches.com/"
     }
 }
