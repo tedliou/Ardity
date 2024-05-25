@@ -1,3 +1,25 @@
+This repository is a fork of the original Ardity project (https://github.com/dwilches/Ardity) by dwilches, designed to simplify Arduino and Unity communication. It includes the Ardity package for streamlined integration within your Unity development environment.
+
+## How to Use Ardity in This Fork
+
+To leverage Ardity's functionalities in this forked repository, follow these steps:
+
+1. **Install the Ardity Package:**
+   - Open the Unity Package Manager by navigating to **Packages > Package Manager**.
+   - Click on **Packages** in the top left corner and select **Add package from git URL...**.
+   - Paste the following URL into the input field and click **Install**:
+     ```
+     https://github.com/tedliou/Ardity.git?path=UnityProject/Assets/Ardity
+     ```
+
+2. **Proceed with the Original Instructions:**
+   - Refer to the original Ardity documentation (https://github.com/dwilches/Ardity#instructions) for detailed guidance on using the library within your Unity project.
+
+**Please note:** While this forked repository offers a convenient way to integrate Ardity, we strongly recommend acknowledging the original creator, dwilches, in your project documentation or credits if you find Ardity to be valuable.
+
+
+
+## Original Ardity Documentation
 <div align="center">
 	<img src="docs/images/full-logo.png" 
          alt="Ardity: Arduino + Unity"3
